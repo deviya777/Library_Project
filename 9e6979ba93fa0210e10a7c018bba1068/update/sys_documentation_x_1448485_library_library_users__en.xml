@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Library Users" language="en" table="x_1448485_library_library_users">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Library Users</label>
+            <language>en</language>
+            <name>x_1448485_library_library_users</name>
+            <plural>Library Users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-18 19:30:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Library Users</sys_name>
+            <sys_package display_value="Library Project" source="x_1448485_library">9e6979ba93fa0210e10a7c018bba1068</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Project">9e6979ba93fa0210e10a7c018bba1068</sys_scope>
+            <sys_update_name>sys_documentation_x_1448485_library_library_users__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-18 19:30:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
